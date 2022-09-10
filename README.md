@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Priya Balaji</h1>
-<h3 align="center">I am passionate data analyst</h3>
+<h2 align="left">Priya Balaji</h2>
 
+- 👋 Hi, I'm @priya-balajii
 - 🌱 I’m currently learning Applied Data Analytics and Machine Learning
 
 - 💬 Interests food, consumer behavior, technology
