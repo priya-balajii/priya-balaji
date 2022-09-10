@@ -1,11 +1,11 @@
 <h2 align="left">Priya Balaji</h2>
 
 - 👋 Hi, I'm @priya-balajii
-- 🌱 I’m currently learning Applied Data Analytics and Machine Learning
+- 🌱 I’m currently learning: Applied Data Analytics and Machine Learning
 
-- 💬 Interests food, consumer behavior, technology
+- 💬 Interests: food, consumer behavior, technology
 
-- 📫 How to reach me priyabalajidhars@gmail.com
+- 📫 How to reach me: priyabalajidhars@gmail.com
 
 - 💞️ **Thanks for checking out my profile!**
 
